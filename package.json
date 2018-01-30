@@ -1,0 +1,30 @@
+{
+  "name": "mean-ang2",
+  "version": "1.0.0",
+  "description": "MEAN Stack With ANgular 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digambarkangude/MEAN-Stack-With-Angular-2.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Stack",
+    "Angular",
+    "2"
+  ],
+  "author": "Digambar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/digambarkangude/MEAN-Stack-With-Angular-2/issues"
+  },
+  "homepage": "https://github.com/digambarkangude/MEAN-Stack-With-Angular-2#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^5.0.2",
+    "path": "^0.12.7"
+  }
+}
