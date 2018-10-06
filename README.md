@@ -50,10 +50,6 @@ $ npm start
 -- Access API at: http://localhost:8080
 
 
-## Contributors
-
-David Acosta.
-
 ## License
 
 No license.
